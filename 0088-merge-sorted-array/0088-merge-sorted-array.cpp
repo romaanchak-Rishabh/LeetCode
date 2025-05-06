@@ -29,6 +29,7 @@ public:
         // }
 
         // Approach 2: Fill up Nums1 from last
+        // TC: O(n+m) SC: O(1)
         int i=m-1;
         int j=n-1;
         int k=m+n-1;
