@@ -124,6 +124,7 @@ If you find this repo useful:
 | ------- |
 | [0027-remove-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
@@ -142,9 +143,14 @@ If you find this repo useful:
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
