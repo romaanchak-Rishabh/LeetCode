@@ -145,11 +145,13 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
