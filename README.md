@@ -188,4 +188,5 @@ If you find this repo useful:
 | ------- |
 | [0176-second-highest-salary](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
