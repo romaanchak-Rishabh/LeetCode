@@ -129,6 +129,7 @@ If you find this repo useful:
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -142,6 +143,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -189,4 +191,8 @@ If you find this repo useful:
 | [0176-second-highest-salary](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0197-rising-temperature) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
