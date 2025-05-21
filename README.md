@@ -151,6 +151,7 @@ If you find this repo useful:
 | [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -196,4 +198,12 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
