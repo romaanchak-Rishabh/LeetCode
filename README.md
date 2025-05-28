@@ -201,6 +201,7 @@ If you find this repo useful:
 | [0595-big-countries](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0620-not-boring-movies) |
+| [1153-product-sales-analysis-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1153-product-sales-analysis-i) |
 ## Hash Table
 |  |
 | ------- |
