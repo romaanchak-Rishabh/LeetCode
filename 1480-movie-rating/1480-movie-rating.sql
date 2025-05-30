@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+(select Users.name as results from MovieRating join Users on MovieRating.user_id=Users.user_id group by movieRating.user_id having min(length(Users.name)) order by count(*) desc, Users.name limit 1) union all (select title from Movies join MovieRating on Movies.movie_id=MovieRating.movie_id where month(created_at)='02' and year(created_at)='2020' group by movieRating.movie_id order by sum(rating)/count(*) desc, title limit 1);
