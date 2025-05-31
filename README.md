@@ -135,6 +135,7 @@ If you find this repo useful:
 | [0643-maximum-average-subarray-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ If you find this repo useful:
 | [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
@@ -220,4 +222,12 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
