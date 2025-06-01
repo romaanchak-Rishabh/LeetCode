@@ -124,6 +124,7 @@ If you find this repo useful:
 | ------- |
 | [0027-remove-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -159,6 +160,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
