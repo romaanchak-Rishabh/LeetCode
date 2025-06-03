@@ -209,6 +209,7 @@ If you find this repo useful:
 | [1258-article-views-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1258-article-views-i) |
 | [1480-movie-rating](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1480-movie-rating) |
 | [1827-invalid-tweets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
 | ------- |
