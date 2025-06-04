@@ -183,10 +183,12 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
