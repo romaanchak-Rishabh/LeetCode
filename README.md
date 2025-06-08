@@ -122,6 +122,7 @@ If you find this repo useful:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0035-search-insert-position) |
@@ -141,6 +142,7 @@ If you find this repo useful:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -252,4 +254,8 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
