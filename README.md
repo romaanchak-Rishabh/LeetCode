@@ -226,6 +226,7 @@ If you find this repo useful:
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 ## Recursion
 |  |
 | ------- |
@@ -249,6 +250,7 @@ If you find this repo useful:
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
@@ -258,4 +260,8 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
