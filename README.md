@@ -131,6 +131,7 @@ If you find this repo useful:
 | [0053-maximum-subarray](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -184,6 +186,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +240,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
@@ -264,6 +268,7 @@ If you find this repo useful:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
