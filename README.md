@@ -141,6 +141,7 @@ If you find this repo useful:
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -167,6 +168,7 @@ If you find this repo useful:
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +250,7 @@ If you find this repo useful:
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -274,6 +277,7 @@ If you find this repo useful:
 | ------- |
 | [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
