@@ -207,6 +207,7 @@ If you find this repo useful:
 | [0104-maximum-depth-of-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@ If you find this repo useful:
 | [0104-maximum-depth-of-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ If you find this repo useful:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Interactive
 |  |
 | ------- |
