@@ -277,6 +277,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,12 +302,14 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
 | ------- |
