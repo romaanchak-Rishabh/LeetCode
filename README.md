@@ -234,6 +234,7 @@ If you find this repo useful:
 | ------- |
 | [0176-second-highest-salary](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0595-big-countries) |
