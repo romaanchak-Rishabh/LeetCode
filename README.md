@@ -155,6 +155,7 @@ If you find this repo useful:
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +299,7 @@ If you find this repo useful:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0908-middle-of-the-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
