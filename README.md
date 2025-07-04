@@ -171,6 +171,7 @@ If you find this repo useful:
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
@@ -270,6 +271,7 @@ If you find this repo useful:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
