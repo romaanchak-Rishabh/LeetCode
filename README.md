@@ -156,6 +156,7 @@ If you find this repo useful:
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -312,6 +313,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
