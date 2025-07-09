@@ -152,6 +152,7 @@ If you find this repo useful:
 | ------- |
 | [0011-container-with-most-water](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
@@ -316,6 +317,7 @@ If you find this repo useful:
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -335,4 +337,8 @@ If you find this repo useful:
 | ------- |
 | [0136-single-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
