@@ -146,6 +146,7 @@ If you find this repo useful:
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1603-running-sum-of-1d-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -303,6 +304,7 @@ If you find this repo useful:
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting
 |  |
