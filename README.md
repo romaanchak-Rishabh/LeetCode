@@ -177,6 +177,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0070-climbing-stairs) |
@@ -275,6 +276,7 @@ If you find this repo useful:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
@@ -328,6 +330,7 @@ If you find this repo useful:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
