@@ -287,6 +287,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0342-power-of-four) |
@@ -322,6 +323,7 @@ If you find this repo useful:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
