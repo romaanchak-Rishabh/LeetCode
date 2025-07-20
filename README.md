@@ -139,6 +139,7 @@ If you find this repo useful:
 | [0215-kth-largest-element-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -162,6 +163,7 @@ If you find this repo useful:
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
@@ -172,6 +174,7 @@ If you find this repo useful:
 | [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -197,6 +200,7 @@ If you find this repo useful:
 | [0069-sqrtx](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -282,6 +286,7 @@ If you find this repo useful:
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
