@@ -298,6 +298,7 @@ If you find this repo useful:
 | [0242-valid-anagram](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
@@ -333,6 +334,7 @@ If you find this repo useful:
 | ------- |
 | [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
@@ -356,6 +358,7 @@ If you find this repo useful:
 | [0205-isomorphic-strings](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
@@ -398,4 +401,8 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0039-combination-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
