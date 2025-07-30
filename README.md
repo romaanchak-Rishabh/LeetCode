@@ -144,6 +144,7 @@ If you find this repo useful:
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
@@ -214,6 +215,7 @@ If you find this repo useful:
 | ------- |
 | [0048-rotate-image](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +325,7 @@ If you find this repo useful:
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
