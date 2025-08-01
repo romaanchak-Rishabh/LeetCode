@@ -153,6 +153,7 @@ If you find this repo useful:
 | [1603-running-sum-of-1d-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2350-find-closest-number-to-zero](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -332,6 +333,7 @@ If you find this repo useful:
 | [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
