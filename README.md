@@ -135,6 +135,7 @@ If you find this repo useful:
 | [0053-maximum-subarray](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -424,6 +425,7 @@ If you find this repo useful:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0342-power-of-four) |
@@ -450,6 +452,7 @@ If you find this repo useful:
 | [0039-combination-sum](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0078-subsets) |
 ## Queue
 |  |
 | ------- |
