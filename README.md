@@ -148,6 +148,7 @@ If you find this repo useful:
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -194,6 +195,7 @@ If you find this repo useful:
 | [0215-kth-largest-element-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
 ## Math
@@ -245,6 +247,7 @@ If you find this repo useful:
 | [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +338,7 @@ If you find this repo useful:
 | [0205-isomorphic-strings](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -375,6 +379,7 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -441,10 +446,12 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -465,4 +472,8 @@ If you find this repo useful:
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0888-mirror-reflection) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
