@@ -151,6 +151,7 @@ If you find this repo useful:
 | [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -346,6 +347,7 @@ If you find this repo useful:
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
