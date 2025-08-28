@@ -8,6 +8,7 @@ public:
             else {
                 f++;
                 nums[f]=nums[l];
+                l++;
             }
         }
         return f+1;
