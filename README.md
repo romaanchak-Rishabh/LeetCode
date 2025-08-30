@@ -152,6 +152,7 @@ If you find this repo useful:
 | [0240-search-a-2d-matrix-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
@@ -193,6 +194,7 @@ If you find this repo useful:
 | [0189-rotate-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
@@ -242,6 +244,7 @@ If you find this repo useful:
 | [0240-search-a-2d-matrix-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -457,6 +460,7 @@ If you find this repo useful:
 | [0136-single-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
