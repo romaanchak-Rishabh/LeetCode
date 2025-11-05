@@ -173,6 +173,7 @@ If you find this repo useful:
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -396,6 +397,7 @@ If you find this repo useful:
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
