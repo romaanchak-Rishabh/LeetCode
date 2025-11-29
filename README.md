@@ -176,6 +176,7 @@ If you find this repo useful:
 | [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
