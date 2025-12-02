@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/mirror-reflection/">858. Mirror Reflection</a></h2><h3>Medium</h3><hr><p>There is a special square room with mirrors on each of the four walls. Except for the southwest corner, there are receptors on each of the remaining corners, numbered <code>0</code>, <code>1</code>, and <code>2</code>.</p>
+<h2><a href="https://leetcode.com/problems/mirror-reflection">888. Mirror Reflection</a></h2><h3>Medium</h3><hr><p>There is a special square room with mirrors on each of the four walls. Except for the southwest corner, there are receptors on each of the remaining corners, numbered <code>0</code>, <code>1</code>, and <code>2</code>.</p>
 
 <p>The square room has walls of length <code>p</code>&nbsp;and a laser ray from the southwest corner first meets the east wall at a distance <code>q</code> from the <code>0<sup>th</sup></code> receptor.</p>
 
