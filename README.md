@@ -233,6 +233,7 @@ If you find this repo useful:
 | [0268-missing-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0342-power-of-four) |
+| [0858-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0858-mirror-reflection) |
 | [0888-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0888-mirror-reflection) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -504,10 +505,12 @@ If you find this repo useful:
 ## Geometry
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0858-mirror-reflection) |
 | [0888-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0888-mirror-reflection) |
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0858-mirror-reflection) |
 | [0888-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0888-mirror-reflection) |
 ## Bucket Sort
 |  |
