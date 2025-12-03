@@ -167,6 +167,7 @@ If you find this repo useful:
 | [0882-peak-index-in-a-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1319-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -265,6 +266,7 @@ If you find this repo useful:
 | [0074-search-a-2d-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
@@ -284,6 +286,7 @@ If you find this repo useful:
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Tree
 |  |
