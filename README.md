@@ -453,6 +453,7 @@ If you find this repo useful:
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
