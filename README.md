@@ -167,6 +167,7 @@ If you find this repo useful:
 | [0882-peak-index-in-a-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1319-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -377,6 +378,7 @@ If you find this repo useful:
 | [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
