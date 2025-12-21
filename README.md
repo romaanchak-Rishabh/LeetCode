@@ -221,6 +221,7 @@ If you find this repo useful:
 | [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
