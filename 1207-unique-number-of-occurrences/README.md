@@ -11,7 +11,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> arr = [1,2]
+<strong>Input: </strong> arr = [1,2]
 <strong>Output:</strong> false
 </pre>
 
