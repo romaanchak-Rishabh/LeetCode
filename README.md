@@ -173,6 +173,7 @@ If you find this repo useful:
 | [1319-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
