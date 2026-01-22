@@ -358,6 +358,7 @@ If you find this repo useful:
 | [1148-article-views-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1258-article-views-i) |
+| [1341-movie-rating](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1341-movie-rating) |
 | [1480-movie-rating](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
