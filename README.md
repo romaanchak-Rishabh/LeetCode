@@ -365,6 +365,7 @@ If you find this repo useful:
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1683-invalid-tweets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1811-fix-names-in-a-table](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
