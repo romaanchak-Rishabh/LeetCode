@@ -163,6 +163,7 @@ If you find this repo useful:
 | [0643-maximum-average-subarray-i](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -296,6 +297,7 @@ If you find this repo useful:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
