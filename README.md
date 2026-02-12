@@ -372,6 +372,7 @@ If you find this repo useful:
 | [1757-recyclable-and-low-fat-products](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1811-fix-names-in-a-table](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1827-invalid-tweets) |
+| [1907-count-salary-categories](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2024-calculate-special-bonus](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2024-calculate-special-bonus) |
