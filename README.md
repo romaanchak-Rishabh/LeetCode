@@ -365,6 +365,7 @@ If you find this repo useful:
 | [1341-movie-rating](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1480-movie-rating](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1480-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1667-fix-names-in-a-table) |
