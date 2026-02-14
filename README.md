@@ -188,6 +188,7 @@ If you find this repo useful:
 | [2239-find-closest-number-to-zero](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2364-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -246,6 +247,7 @@ If you find this repo useful:
 | [0858-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0858-mirror-reflection) |
 | [0888-mirror-reflection](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0888-mirror-reflection) |
 | [1013-fibonacci-number](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1013-fibonacci-number) |
+| [2364-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
@@ -402,6 +404,7 @@ If you find this repo useful:
 | [0442-find-all-duplicates-in-an-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [2364-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
@@ -450,6 +453,7 @@ If you find this repo useful:
 | [0347-top-k-frequent-elements](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2364-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
