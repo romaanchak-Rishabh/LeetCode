@@ -434,6 +434,7 @@ If you find this repo useful:
 | [0054-spiral-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -488,6 +489,7 @@ If you find this repo useful:
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -499,6 +501,7 @@ If you find this repo useful:
 | [0145-binary-tree-postorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
