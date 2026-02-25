@@ -9,7 +9,7 @@
 
 <p><strong>Custom Judge:</strong></p>
 
-<p>The judge will test your solution with the following code:</p>
+<p>The judge will test your solution with the following code: </p>
 
 <pre>
 int[] nums = [...]; // Input array
