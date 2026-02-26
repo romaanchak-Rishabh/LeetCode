@@ -213,6 +213,7 @@ If you find this repo useful:
 | [0350-intersection-of-two-arrays-ii](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1332-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -489,6 +490,7 @@ If you find this repo useful:
 | [0387-first-unique-character-in-a-string](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0409-longest-palindrome) |
+| [1332-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1454-remove-palindromic-subsequences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
