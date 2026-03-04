@@ -179,6 +179,7 @@ If you find this repo useful:
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -438,6 +439,7 @@ If you find this repo useful:
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/2048-build-array-from-permutation) |
