@@ -168,6 +168,7 @@ If you find this repo useful:
 | [0792-binary-search](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0896-monotonic-array) |
 | [0932-monotonic-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/romaanchak-Rishabh/LeetCode/tree/master/1207-unique-number-of-occurrences) |
